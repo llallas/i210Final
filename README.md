@@ -26,7 +26,7 @@ List any websites that you might reference to influence you styling choices
 
 #### President – Elias
 
-#### Architect – Elias
+#### Architect – Jaylen
 
 #### Scrum Master – Jose
 
