@@ -20,7 +20,7 @@ List core webpages and briefly describe the page of them
 
 ### Design Choices
 
-List any websites that you might reference to influence you styling choices
+https://www.hauntworld.com/
 
 ### Members & Responsibilities
 
