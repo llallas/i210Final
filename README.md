@@ -6,7 +6,7 @@ Brief description of your what your project is about and why you chose that topi
 
 ### Live Link
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)  
+<!-- [Blog Page](https://{username}.github.io/{reponame}/homework-2) -->
 
 ### Key Takeaways
 
@@ -16,10 +16,14 @@ We are doing this project to help us practice using the skills we are learning i
 
 List core webpages and briefly describe the page of them
 
-### Design Choices 
+### Design Choices
 
 List any websites that you might reference to influence you styling choices
 
 ### Members & Responsibilities
 
-List all members and their roles
+President – Elias
+Architect – Elias
+Scrum Master – Jose
+Analyst – Bell
+Designer - Chloe
