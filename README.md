@@ -2,7 +2,9 @@
 
 ### Project Summary
 
-Brief description of your what your project is about and why you chose that topic.
+This website delves into the fascinating world of cryptids—mysterious creatures whose existence is debated, such as Bigfoot, the Loch Ness Monster, and the Chupacabra. It features in-depth profiles on legendary cryptids, eyewitness accounts, scientific theories, and cultural significance. Visitors can explore cryptid sightings, folklore, and debates about whether these creatures are real or myths.
+
+We chose this topic because cryptids blend history, science, and storytelling, making them a compelling subject for both skeptics and believers. They also reflect human curiosity and the enduring mystery of the unknown, encouraging critical thinking about evidence, folklore, and modern myths.
 
 ### Live Link
 
