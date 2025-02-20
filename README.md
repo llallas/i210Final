@@ -10,7 +10,7 @@ Brief description of your what your project is about and why you chose that topi
 
 ### Key Takeaways
 
-Understanding of why we are doing this project
+We are doing this project to help us practice using the skills we are learning in class in a real life situation. We will be working on building a website as a team, which gives us a better understanding of the workflow process as well as figuring out the best tools available to streamline the production process.
 
 ### Core Webpages
 
