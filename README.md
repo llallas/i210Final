@@ -22,8 +22,12 @@ List any websites that you might reference to influence you styling choices
 
 ### Members & Responsibilities
 
-President – Elias
-Architect – Elias
-Scrum Master – Jose
-Analyst – Bell
-Designer - Chloe
+#### President – Elias
+
+#### Architect – Elias
+
+#### Scrum Master – Jose
+
+#### Analyst – Bell
+
+#### Designer - Chloe
