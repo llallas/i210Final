@@ -8,7 +8,7 @@ We chose this topic because cryptids blend history, science, and storytelling, m
 
 ### Live Link
 
-[Blog Page](https://llallas.github.io/i210Final)
+[Home Page](https://llallas.github.io/i210Final)
 
 ### Key Takeaways
 
