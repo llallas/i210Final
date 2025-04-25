@@ -27,11 +27,15 @@ https://www.hauntworld.com/
 ### Members & Responsibilities
 
 #### President – Elias
-
+set up the project and repository for everyone to access
 #### Architect – Jaylen
+created webpages similar in style to the design created by Chloe
 
 #### Scrum Master – Jose
+created the home page and a template for others to follow when building their webpages
 
 #### Analyst – Bell
+wrote up the document 
 
 #### Designer - Chloe
+ame up with the website's design and style
