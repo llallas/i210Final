@@ -1,10 +1,12 @@
 ## Final Project
 
 ### Project Summary
-
+For our project, we decided to create an encyclopedia of cryptids. We chose to do this project because cryptids are a topic that every group member is interested in and has fun learning more about and compiling information on. It seemed like a natural choice as a topic for our project and would encourage every group member to get involved with their own experiences, stories, and favorites. The web page also allows us to share our knowledge of our favorite cryptids with other people, and gives us an opportunity to research more cryptid types that we might not have heard of before.
 This website delves into the fascinating world of cryptids—mysterious creatures whose existence is debated, such as Bigfoot, the Loch Ness Monster, and the Chupacabra. It features in-depth profiles on legendary cryptids, eyewitness accounts, scientific theories, and cultural significance. Visitors can explore cryptid sightings, folklore, and debates about whether these creatures are real or myths.
 
 We chose this topic because cryptids blend history, science, and storytelling, making them a compelling subject for both skeptics and believers. They also reflect human curiosity and the enduring mystery of the unknown, encouraging critical thinking about evidence, folklore, and modern myths.
+
+
 
 ### Live Link
 
@@ -12,7 +14,7 @@ We chose this topic because cryptids blend history, science, and storytelling, m
 
 ### Key Takeaways
 
-We are doing this project to help us practice using the skills we are learning in class in a real life situation. We will be working on building a website as a team, which gives us a better understanding of the workflow process as well as figuring out the best tools available to streamline the production process.
+We are doing this project to help us practice using the skills we are learning in class in a real life situation. We will be working on building a website as a team, which gives us a better understanding of the workflow process as well as figuring out the best tools available to streamline the production process. It is important to be able to have clean and easily ccesible code when working on a team so that everyone can communicate easily and stay on the same page. 
 
 ### Core Webpages
 
@@ -38,4 +40,4 @@ created the home page and a template for others to follow when building their we
 wrote up the document 
 
 #### Designer - Chloe
-ame up with the website's design and style
+Came up with the website's design and style
